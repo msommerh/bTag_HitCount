@@ -3,10 +3,13 @@
 ## Author:
 Manuel Sommerhalder
 
-## Supervised by:
+## Bachelor thesis supervised by:
 Prof. Dr. Benjamin Kilminster
+
 Thea Årrestad
+
 Dr. Yuta Takahashi
+
 
 ## Abstract:
 Track-based b tagging algorithms are shown to suffer significant efficiency loss for jets
