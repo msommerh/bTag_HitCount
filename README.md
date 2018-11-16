@@ -4,7 +4,7 @@
 Manuel Sommerhalder
 
 ## Bachelor thesis supervised by:
-Prof. Dr. Benjamin Kilminster
+Prof. Dr. Ben Kilminster
 
 Thea Årrestad
 
