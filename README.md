@@ -6,7 +6,7 @@ Manuel Sommerhalder
 ## Bachelor thesis supervised by:
 Prof. Dr. Ben Kilminster
 
-Thea Årrestad
+Dr. Thea Årrestad
 
 Dr. Yuta Takahashi
 
